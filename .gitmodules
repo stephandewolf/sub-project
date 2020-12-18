@@ -1,0 +1,3 @@
+[submodule "exact-name-project"]
+	path = exact-name-project
+	url = https://github.com/stephandewolf/exact-name-project
